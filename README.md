@@ -1,0 +1,2 @@
+# JonathanSerranoEjercicioJS
+ejecicio condicionales js
